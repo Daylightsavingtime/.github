@@ -43,6 +43,8 @@ Even though we gain an hour of sleep when we fall back, the adjustment can still
 ## The Push for Permanent Daylight Saving Time ## 
 
 There has been an ongoing push to end the practice of changing clocks twice a year. The Sunshine Protection Act, passed by the Senate in 2022, would make daylight saving time permanent, meaning we wouldn’t have to “fall back” or “spring forward” anymore. While the bill received strong support, it has stalled in Congress, and as of 2024, no permanent change has been made.
+<img  src="//sstatic1.histats.com/0.gif?4897382&101" alt="" border="0">
+
 
 Proponents of the bill argue that sticking with one time year-round would eliminate the disruptions caused by shifting clocks twice a year. It’s believed that consistent timekeeping could lead to better sleep patterns, improved productivity, and even positive economic benefits. However, critics point out that having more morning darkness during the winter months could lead to safety concerns, especially for children heading to school.
 
